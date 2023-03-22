@@ -1,1 +1,25 @@
-/*  your css code here. If applicable */
+.parent_container{
+    display: flex;
+    gap: 40px;
+
+}
+
+.child{
+    align-self: center;
+  
+}
+
+img{
+    height: 230px;
+    width: 350px;
+}
+
+button{
+    background-color: red;
+    color: white;
+    padding: 20px;
+    width: 150px;
+  
+    border-radius: 10px;
+    border: none;
+}
